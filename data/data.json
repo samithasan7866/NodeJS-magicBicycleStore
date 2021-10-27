@@ -1,0 +1,107 @@
+[
+  {
+    "id": "0",
+    "name": "Alchemy Bicycles Model 3T",
+    "hasDiscount": true,
+    "discount": 15,
+    "originalPrice": 1000,
+    "image": "0.png",
+    "star": 4
+  },
+  {
+    "id": "1",
+    "name": "Hero Skyper 26T",
+    "hasDiscount": true,
+    "discount": 30,
+    "originalPrice": 2000,
+    "image": "1.png",
+    "star": 5
+  },
+  {
+    "id": "2",
+    "name": "Bianchi Bicycles A50",
+    "hasDiscount": true,
+    "discount": 40,
+    "originalPrice": 1700,
+    "image": "2.png",
+    "star": 3
+  },
+  {
+    "id": "3",
+    "name": "Cannondale Bikes 16",
+    "hasDiscount": false,
+    "originalPrice": 1950,
+    "image": "3.png",
+    "star": 4
+  },
+  {
+    "id": "4",
+    "name": "Canyon Bicycles XT",
+    "hasDiscount": true,
+    "discount": 25,
+    "originalPrice": 699,
+    "image": "4.png",
+    "star": 3
+  },
+  {
+    "id": "5",
+    "name": "Colnago Bikes CV1000",
+    "hasDiscount": false,
+    "discount": 25,
+    "originalPrice": 1600,
+    "image": "5.png",
+    "star": 5
+  },
+  {
+    "id": "6",
+    "name": "Co-op Cycles VF44",
+    "hasDiscount": true,
+    "discount": 40,
+    "originalPrice": 1600,
+    "image": "6.png",
+    "star": 3
+  },
+  {
+    "id": "7",
+    "name": "Diamondback Bikes",
+    "hasDiscount": true,
+    "discount": 50,
+    "originalPrice": 1300,
+    "image": "7.png",
+    "star": 5
+  },
+  {
+    "id": "8",
+    "name": "Evil Bikes BT88",
+    "hasDiscount": false,
+    "originalPrice": 1500,
+    "image": "8.png",
+    "star": 5
+  },
+  {
+    "id": "9",
+    "name": "Firmstrong Bikes",
+    "hasDiscount": false,
+    "originalPrice": 1400,
+    "image": "9.png",
+    "star": 5
+  },
+  {
+    "id": "10",
+    "name": "GT Bikes CC",
+    "hasDiscount": true,
+    "discount": 21,
+    "originalPrice": 1100,
+    "image": "10.png",
+    "star": 5
+  },
+  {
+    "id": "11",
+    "name": "Jamis Bikes FG2",
+    "hasDiscount": true,
+    "discount": 25,
+    "originalPrice": 800,
+    "image": "11.png",
+    "star": 5
+  }
+]
